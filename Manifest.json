@@ -1,0 +1,16 @@
+{
+  "name": "Premium Tracker",
+  "short_name": "PremTrack",
+  "start_url": "/premium-tracker/",
+  "scope": "/premium-tracker/",
+  "display": "standalone",
+  "background_color": "#F0F4FF",
+  "theme_color": "#4B7BF5",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/2708.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}
